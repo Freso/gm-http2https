@@ -1,10 +1,5 @@
 // HTTP-to-HTTPS redirector script
 //
-// This work is licensed under the Creative Commons Attribution 3.0 License.
-// To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
-// or send a letter to Creative Commons, 543 Howard Street, 5th Floor,
-// San Francisco, California, 94105, USA.
-//
 // WARNING: Enable *only* sites and pages you *know* work the same
 // with or without SSL! Failure to comply *will* cause b0rkage.
 // (Okay, if you know what you're doing, you also know this isn't
@@ -15,6 +10,7 @@
 // @namespace	http://freso.dk/
 // @description	Replace http:// with https:// in the address bar, to make sure you're using the SSL-encrypted version of a page. Only enable for pages that you know are SSL enabled.
 // @copyright	2006+, Frederik "Freso" S. Olesen (http://freso.dk/)
+// @license	Creative Commons Attribution 3.0; http://creativecommons.org/licenses/by/3.0/
 // @include	http://facebook.com/*
 // @include	http://www.facebook.com/*
 // @include	http://twitter.com/*

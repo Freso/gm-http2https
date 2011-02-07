@@ -18,6 +18,8 @@
 // @include	http://facebook.com/*
 // @include	http://www.facebook.com/*
 // @include	http://twitter.com/*
+// @include	http://myspace.com/*
+// @include	http://www.myspace.com/*
 // @include	http://mail.google.com/*
 // @include	http://gmail.google.com/*
 // @include	http://login.yahoo.com/*

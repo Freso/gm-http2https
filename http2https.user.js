@@ -14,7 +14,7 @@
 // @name	HTTP-to-HTTPS redirector
 // @namespace	http://freso.dk/
 // @description	Replace http:// with https:// in the address bar, to make sure you're using the SSL-encrypted version of a page. Only enable for pages that you know are SSL enabled.
-// @copyright	2006-2011, Frederik "Freso" S. Olesen <http://freso.dk/>
+// @copyright	2006+, Frederik "Freso" S. Olesen (http://freso.dk/)
 // @include	http://facebook.com/*
 // @include	http://www.facebook.com/*
 // @include	http://twitter.com/*

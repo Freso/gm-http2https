@@ -1,5 +1,4 @@
 // HTTP-to-HTTPS redirector script
-// version 1 (2006-01-12, night/morning CET)
 // Copyright (c) 2006-2010 Frederik "Freso" S. Olesen
 //
 // This work is licensed under the Creative Commons Attribution 3.0 License.

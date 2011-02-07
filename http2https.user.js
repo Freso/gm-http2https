@@ -1,5 +1,5 @@
 // HTTP-to-HTTPS redirector script
-// Copyright (c) 2006-2010 Frederik "Freso" S. Olesen
+// Copyright (c) 2006-2011 Frederik "Freso" S. Olesen
 //
 // This work is licensed under the Creative Commons Attribution 3.0 License.
 // To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/

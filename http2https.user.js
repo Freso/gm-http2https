@@ -30,6 +30,7 @@
 // @include	http://bugs.gentoo.org/*
 // @include	http://forums.gentoo.org/*
 // @include	http://bugs.kde.org/*
+// @include	http://drupal.org/*
 // @exclude	https://*
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
 // ==/UserScript==

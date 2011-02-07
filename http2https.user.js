@@ -29,6 +29,7 @@
 // @include	http://forums.gentoo.org/*
 // @include	http://bugs.kde.org/*
 // @exclude	https://*
+// @exclude	http://mail.google.com/mail/?view=mm&at=*
 // ==/UserScript==
 (function(){
   var debug = 0;

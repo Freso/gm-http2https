@@ -24,6 +24,8 @@
 // @include	http://login.passport.net/uilogin.srf*
 // @include	http://mail2web.com/*
 // @include	http://www.mail2web.com/*
+// @include	http://fastmail.fm/*
+// @include	http://www.fastmail.fm/*
 // @include	http://sourceforge.net/*
 // @include	http://bugs.gentoo.org/*
 // @include	http://forums.gentoo.org/*

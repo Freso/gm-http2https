@@ -15,6 +15,8 @@
 // @name	HTTP-to-HTTPS redirector
 // @namespace	http://freso.dk/
 // @description	Replace http:// with https:// in the address bar, to make sure you're using the SSL-encrypted version of a page. Only enable for pages that you know are SSL enabled.
+// @include	http://facebook.com/*
+// @include	http://www.facebook.com/*
 // @include	http://mail.google.com/*
 // @include	http://gmail.google.com/*
 // @include	http://login.yahoo.com/*

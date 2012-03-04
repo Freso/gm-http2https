@@ -31,6 +31,13 @@
 // @include	http://forums.gentoo.org/*
 // @include	http://bugs.kde.org/*
 // @include	http://drupal.org/*
+// @include	http://archlinux.org/*
+// @include	http://*.archlinux.org/*
+// @include	http://duckduckgo.com/*
+// @include	http://www.microsoft.com/*
+// @include	http://userscripts.org/*
+// @include	http://da.wikipedia.org/*
+// @include	http://en.wikipedia.org/*
 // @exclude	https://*
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
 // ==/UserScript==

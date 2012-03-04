@@ -36,6 +36,7 @@
 // ==/UserScript==
 (function(){
   var debug = 0;
+  var new_location = location.href.replace(/http\:/, 'https:');
   if ( debug > 0 ) {
     alert(  "Hash:     "+location.hash+
           "\nHost:     "+location.host+
@@ -45,7 +46,7 @@
           "\nPort:     "+location.port+
           "\nProtocol: "+location.protocol+
           "\n"+
-          "\nNew Location: "+location.href.replace(/http\:/, 'https:'));
+          "\nNew Location: "+new_location);
   };
-  location.href = location.href.replace(/http\:/, 'https:');
+  location.href = new_location;
 })();

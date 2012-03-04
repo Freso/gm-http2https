@@ -44,8 +44,8 @@
           "\nPathname: "+location.pathname+
           "\nPort:     "+location.port+
           "\nProtocol: "+location.protocol+
-	  "\n"+
-	  "\nNew Location: "+location.href.replace(/http\:/, 'https:'));
+          "\n"+
+          "\nNew Location: "+location.href.replace(/http\:/, 'https:'));
   };
   location.href = location.href.replace(/http\:/, 'https:');
 })();

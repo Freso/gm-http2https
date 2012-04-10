@@ -40,6 +40,7 @@
 // @include	http://en.wikipedia.org/*
 // @exclude	https://*
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
+// @include http://www.google.com/reader/*
 // ==/UserScript==
 (function(){
   var debug = 0;

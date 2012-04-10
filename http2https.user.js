@@ -17,6 +17,7 @@
 // @include	http://myspace.com/*
 // @include	http://www.myspace.com/*
 // @include	http://www.youtube.com/*
+// @include http://www.google.com/reader/*
 // @include	http://mail.google.com/*
 // @include	http://gmail.google.com/*
 // @include	http://login.yahoo.com/*
@@ -40,7 +41,6 @@
 // @include	http://en.wikipedia.org/*
 // @exclude	https://*
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
-// @include  http://www.google.com/reader/*
 // ==/UserScript==
 (function(){
   var debug = 0;

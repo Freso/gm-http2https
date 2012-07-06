@@ -49,7 +49,8 @@
 // @include	http://*.wikiquote.org/*
 // @include	http://*.wikidata.org/*
 // @include	http://*.wiktionary.org/*
-// @include http://*.wikimediafoundation/*
+// @include	http://*.wikimediafoundation/*
+// @exclude	http://list.wikimedia.org/*
 // @exclude	https://*
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
 // @exclude	http://translate.google.com/*

@@ -39,6 +39,7 @@
 // @include	http://da.wikipedia.org/*
 // @include	http://en.wikipedia.org/*
 // @include	http://fronter.com/*
+// @include	http://beta.musicbrainz.org/*
 // @exclude	https://*
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
 // @exclude	http://translate.google.com/*

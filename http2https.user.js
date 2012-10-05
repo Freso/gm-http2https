@@ -50,10 +50,10 @@
 // @include	http://*.wikidata.org/*
 // @include	http://*.wiktionary.org/*
 // @include	http://*.wikimediafoundation/*
-// @exclude	http://list.wikimedia.org/*
 // @exclude	https://*
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
 // @exclude	http://translate.google.com/*
+// @exclude	http://list.wikimedia.org/*
 // ==/UserScript==
 (function(){
   var debug = 0;

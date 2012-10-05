@@ -17,6 +17,7 @@
 // @include	http://myspace.com/*
 // @include	http://www.myspace.com/*
 // @include	http://www.youtube.com/*
+// @include	http://www.blogger.com/*
 // @include	http://*.google.com/*
 // @include	http://login.yahoo.com/*
 // @include	http://registration.excite.com/*

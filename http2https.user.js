@@ -37,7 +37,10 @@
 // @include	http://www.microsoft.com/*
 // @include	http://userscripts.org/*
 // @include	http://fronter.com/*
+// @include	http://musicbrainz.org/*
 // @include	http://beta.musicbrainz.org/*
+// @include	http://test.musicbrainz.org/*
+// @include	http://wiki.musicbrainz.org/*
 // @include	http://*.wikipedia.org/*
 // @include	http://*.wikimedia.org/*
 // @include	http://*.wikispecies.org/*
@@ -54,6 +57,8 @@
 // @exclude	http://mail.google.com/mail/?view=mm&at=*
 // @exclude	http://translate.google.com/*
 // @exclude	http://list.wikimedia.org/*
+// @exclude	http://*musicbrainz.org/release/add*
+// @exclude	http://*musicbrainz.org/ws/*
 // ==/UserScript==
 (function(){
   var debug = 0;

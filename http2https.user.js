@@ -74,5 +74,5 @@
           "\n"+
           "\nNew Location: "+new_location);
   };
-  location.href = new_location;
+  location.replace(new_location);
 })();
